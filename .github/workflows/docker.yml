@@ -21,3 +21,4 @@ jobs:
 
     - name: Push
       run: docker push ${{ secrets.DOCKER_USERNAME }}/mlops-app:latest
+#check now
